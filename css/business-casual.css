@@ -1,0 +1,129 @@
+/*!
+ * Start Bootstrap - Business Casual (https://startbootstrap.com/template-overviews/business-casual)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
+ */
+
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  margin: 2em;
+  background: url('../img/fonfo5.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+div.tagline-upper.text-center{
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(0, 0, 0) !important;
+}
+
+a.navbar-brand{
+  color: yellow !important;
+}
+
+
+a.nav-link{
+  color: rgb(255, 255, 255) !important;
+  font-size: 1rem;
+}
+
+div.text-heading.text-muted.text-lg{
+  color: rgb(0, 0, 0) !important;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 1.5rem;
+}
+
+div.row text-center{
+  color: yellow;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+  font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: yellow;
+}
+
+h1.my-2{
+  font-size: 4rem;
+  color: rgb(0, 0, 0) !important;
+  font-family: 'Libre Baskerville', serif;
+}
+h1 {
+  font-size: 1rem;
+  font-family: 'Libre Baskerville', serif;
+}
+
+
+.tagline-upper {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.tagline-lower {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.text-expanded {
+  letter-spacing: 2px;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px rgba(70, 3, 3, 0.5);
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+.bg-faded {
+  background-color: rgba(15, 13, 13, 0.479);
+}
+
+.bg-overlay {
+  background-color: rgba(7, 92, 18, 0.7);
+}
+
+hr.divider {
+  border-color: #0a9ee2;
+  max-width: 350px;
+}
+
+div.card{
+  background: rgb(70, 70, 243);
+}
+
+small.text-muted{
+  color: yellowgreen !important;
+}
+
+p.m-0{
+  color: white;
+}
+
+div.card{
+  background-color: rgb(31, 2, 2);
+}
+.card {
+  /* position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: block; */
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  background-color: rgba(43, 42, 42, 0.432);
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  color: #D4AF37  ;
+  margin-bottom: 10px;
+  font-size: 13px;
+  height: 420px;
+
+} 
